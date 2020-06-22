@@ -10,6 +10,9 @@
 ## Hoisting
 * [https://developer.mozilla.org/en-US/docs/Glossary/Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
+## Immediately Invoked Function Expression (IIFE)
+* [https://developer.mozilla.org/en-US/docs/Glossary/IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+
 ## Arrow Functions
 * [https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
 * [https://zendev.com/2018/10/01/javascript-arrow-functions-how-why-when.html](https://zendev.com/2018/10/01/javascript-arrow-functions-how-why-when.html)
