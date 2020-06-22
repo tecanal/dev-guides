@@ -106,3 +106,22 @@ while (true) {
   console.log("Baz");
 }
 ```
+
+Use arrow functions whenever possible when creating anonymous functions. Use the "concise arrow body" whenever possible, which is when you have one line, so you are able to omit the curly braces.
+```js
+// don't do this
+document.getElementById("submit").addEventListener("click", function() {
+    console.log("Clicked!");
+});
+
+// do this
+document.getElementById("submit").addEventListener("click", () => console.log("Clicked!"));
+
+// if two lines
+let clickCount = 0;
+document.getElementById("submit").addEventListener("click", () => {
+    clickCount++;
+    
+    console.log("Clicked!");
+});
+```
