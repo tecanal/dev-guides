@@ -4,6 +4,9 @@
 ## DOM Manipulation
 * [https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/](https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/)
 
+## Timing Events (Timeouts and Intervals)
+* [https://www.w3schools.com/js/js_timing.asp](https://www.w3schools.com/js/js_timing.asp)
+
 ## Let vs Var
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Examples](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Examples)
 
