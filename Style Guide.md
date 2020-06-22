@@ -60,6 +60,44 @@ console.log("This is okay.");
 console.log("This is not okay.")
 ```
 
+When defining an array or JavaScript object, put a space after the first and before the last bracket or curly brace. If the definition can fit on one line (less than 80 characters), then do it on one line. Otherwise, put one property/entry on a line.
+```js
+// like this with arrays
+let words = [ "foo", "bar" ];
+
+// and this for objects
+let rees = { name: "Rees" };
+
+// pretend this is a super long array
+let longArray = [
+    500,
+    501,
+    502,
+    503
+]
+
+// pretend this is an object with a lot of properties
+let html = {
+    "tag": "p",
+    "tag": "ul"
+}
+```
+
+Do not use trailing commas in arrays and JavaScript objects.
+```js
+// do this
+let arr = [ 1, 2, 3 ];
+
+// do not do this
+let arr = [ 1, 2, 3, ];
+
+// this
+let obj = { "name": "foo", age: 40 };
+
+// not this
+let obj = { "name": "foo", age: 40, };
+```
+
 Comment each function with a description of what the function does, and the parameter names and types, and a return variable name and return type if applicable. [Visual Studio Code](https://code.visualstudio.com/) will help you do this automatically, so use it for coding if you think it will be a hassle to remember.
 ```js
 /**
