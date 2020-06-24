@@ -10,6 +10,10 @@
 ## Let vs Var
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Examples](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Examples)
 
+## Conditional (Ternary) Operator
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+* [https://www.javascripttutorial.net/javascript-ternary-operator/](https://www.javascripttutorial.net/javascript-ternary-operator/)
+
 ## Hoisting
 * [https://developer.mozilla.org/en-US/docs/Glossary/Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
