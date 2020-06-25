@@ -24,6 +24,9 @@
 * [https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
 * [https://zendev.com/2018/10/01/javascript-arrow-functions-how-why-when.html](https://zendev.com/2018/10/01/javascript-arrow-functions-how-why-when.html)
 
+## Object.keys, values, entries
+* [https://javascript.info/keys-values-entries](https://javascript.info/keys-values-entries)
+
 ## map(), filter(), and reduce()
 * [https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
 
