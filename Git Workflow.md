@@ -15,4 +15,4 @@ This will always be done by creating a pull request, so that Rees can review you
 7. To keep your branch up-to-date, use ```git fetch -p origin && git merge master```. 
     * The first part will pull down any changes made to origin (the repository). The -p flag stands for prune which means that it will get rid of any branches that get removed around the repository.
     * The second part will merge code from master into your branch, to keep it up-to-date.
-8. When you're ready for your changes to go int othe master branch, you can create a pull request in the "Pull Requests" tab. This means that someone will review your changes and approve it, or tell you to go back and make a few more changes.
+8. When you're ready for your changes to go into the master branch, you can create a pull request in the "Pull Requests" tab. This means that someone will review your changes and approve it, or tell you to go back and make a few more changes.
