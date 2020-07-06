@@ -1,4 +1,5 @@
 # UX Crash Course
+**User Experience (UX) Design** is all about how different parts of an application can affect the experience of a user using the product.
 
 Read [https://medium.com/hh-design/crash-course-ui-design-25d13ff60962](https://medium.com/hh-design/crash-course-ui-design-25d13ff60962) for a good overview of basic things, then look at the further readings links that are listed below.
 
