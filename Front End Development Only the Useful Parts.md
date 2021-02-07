@@ -35,11 +35,12 @@
 ### DOM Manipulation
 * [https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/](https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/)
 
-### Timing Events (Timeouts and Intervals)
-* [https://www.w3schools.com/js/js_timing.asp](https://www.w3schools.com/js/js_timing.asp)
-
 ### Let vs Var
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Examples](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let#Examples)
+
+### For...in, For...of, forEach
+* [https://alligator.io/js/for-of-for-in-loops/](https://alligator.io/js/for-of-for-in-loops/)
+* [https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript](https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript)
 
 ### Conditional (Ternary) Operator
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
@@ -55,15 +56,11 @@
 * [https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
 * [https://zendev.com/2018/10/01/javascript-arrow-functions-how-why-when.html](https://zendev.com/2018/10/01/javascript-arrow-functions-how-why-when.html)
 
-### For...in, For...of, forEach
-* [https://alligator.io/js/for-of-for-in-loops/](https://alligator.io/js/for-of-for-in-loops/)
-* [https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript](https://thecodebarbarian.com/for-vs-for-each-vs-for-in-vs-for-of-in-javascript)
+### Timing Events (Timeouts and Intervals)
+* [https://www.w3schools.com/js/js_timing.asp](https://www.w3schools.com/js/js_timing.asp)
 
 ### Object.keys, values, entries
 * [https://javascript.info/keys-values-entries](https://javascript.info/keys-values-entries)
-
-### map(), filter(), and reduce()
-* [https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
 
 ### Template Literals (Template Strings)
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
@@ -77,3 +74,6 @@
 
 ### Destructuring Assignment
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+
+### map(), filter(), and reduce()
+* [https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
